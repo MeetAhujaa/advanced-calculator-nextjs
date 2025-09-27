@@ -1,6 +1,6 @@
 # Calculator App
 
-[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://calculator-h6vziyb7f-meetahj123-gmailcoms-projects.vercel.app)
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://calculator-ia6tf9vah-meetahj123-gmailcoms-projects.vercel.app)
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
@@ -9,7 +9,7 @@ A modern, responsive calculator built with Next.js, TypeScript, and Tailwind CSS
 
 ## 🚀 Live Demo
 
-**[Try the Calculator Live →](https://calculator-h6vziyb7f-meetahj123-gmailcoms-projects.vercel.app)**
+**[Try the Calculator Live →](https://calculator-ia6tf9vah-meetahj123-gmailcoms-projects.vercel.app)**
 
 *Experience the full functionality including keyboard shortcuts, advanced math operations, and memory functions.*
 
@@ -56,7 +56,7 @@ A modern, responsive calculator built with Next.js, TypeScript, and Tailwind CSS
 
 ### Option 1: Use Online (Recommended)
 
-**[Open Calculator →](https://calculator-h6vziyb7f-meetahj123-gmailcoms-projects.vercel.app)**
+**[Open Calculator →](https://calculator-ia6tf9vah-meetahj123-gmailcoms-projects.vercel.app)**
 
 ### Option 2: Run Locally
 
@@ -216,7 +216,7 @@ Try these operations to test functionality:
 ## Deployment
 
 This calculator is automatically deployed on [Vercel](https://vercel.com) at:
-**https://calculator-h6vziyb7f-meetahj123-gmailcoms-projects.vercel.app**
+**https://calculator-ia6tf9vah-meetahj123-gmailcoms-projects.vercel.app**
 
 ### Deploy Your Own
 

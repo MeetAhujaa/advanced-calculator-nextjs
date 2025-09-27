@@ -1,6 +1,34 @@
 # Calculator App
 
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://calculator-h6vziyb7f-meetahj123-gmailcoms-projects.vercel.app)
+[![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+
 A modern, responsive calculator built with Next.js, TypeScript, and Tailwind CSS.
+
+## 🚀 Live Demo
+
+**[Try the Calculator Live →](https://calculator-h6vziyb7f-meetahj123-gmailcoms-projects.vercel.app)**
+
+*Experience the full functionality including keyboard shortcuts, advanced math operations, and memory functions.*
+
+## 🎨 Screenshots
+
+<div align="center">
+
+### Desktop View
+![Calculator Desktop](https://via.placeholder.com/600x400/f3f4f6/374151?text=Calculator+Desktop+View)
+
+### Mobile View
+![Calculator Mobile](https://via.placeholder.com/300x600/f3f4f6/374151?text=Calculator+Mobile+View)
+
+### Keyboard Shortcuts
+![Keyboard Shortcuts](https://via.placeholder.com/400x300/f3f4f6/374151?text=Keyboard+Shortcuts+Help)
+
+</div>
+
+> 📷 *Screenshots will be updated with actual app images*
 
 ## Features
 
@@ -23,6 +51,34 @@ A modern, responsive calculator built with Next.js, TypeScript, and Tailwind CSS
 - **TypeScript** - Type safety and better developer experience
 - **Tailwind CSS** - Utility-first CSS framework for styling
 - **React Hooks** - Modern React patterns for state management
+
+## 🚀 Quick Start
+
+### Option 1: Use Online (Recommended)
+
+**[Open Calculator →](https://calculator-h6vziyb7f-meetahj123-gmailcoms-projects.vercel.app)**
+
+### Option 2: Run Locally
+
+```bash
+# Clone the repository
+git clone https://github.com/MeetAhujaa/advanced-calculator-nextjs.git
+
+# Navigate to project
+cd advanced-calculator-nextjs
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Open http://localhost:3000
+```
+
+### Option 3: Deploy Your Own
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/MeetAhujaa/advanced-calculator-nextjs)
 
 ## Getting Started
 
@@ -157,8 +213,31 @@ Try these operations to test functionality:
 - `npm start` - Start production server
 - `npm run lint` - Run ESLint
 
-## Deploy on Vercel
+## Deployment
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This calculator is automatically deployed on [Vercel](https://vercel.com) at:
+**https://calculator-h6vziyb7f-meetahj123-gmailcoms-projects.vercel.app**
+
+### Deploy Your Own
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/MeetAhujaa/advanced-calculator-nextjs)
+
+1. **One-Click Deploy**: Click the button above
+2. **Manual Deploy**:
+   ```bash
+   # Fork and clone the repository
+   git clone https://github.com/MeetAhujaa/advanced-calculator-nextjs.git
+   cd advanced-calculator-nextjs
+   npm install
+   
+   # Deploy to Vercel
+   npx vercel
+   ```
+
+### Other Platforms
+
+- **Netlify**: Connect your GitHub repo and deploy
+- **Cloudflare Pages**: Import your GitHub repository
+- **GitHub Pages**: Use `npm run build` and deploy the `out` folder
 
 Check out the [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.

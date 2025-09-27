@@ -1,18 +1,11 @@
 {
-  "$schema": "https://openapi.vercel.sh/vercel.json",
   "buildCommand": "npm run build",
   "devCommand": "npm run dev",
   "installCommand": "npm install",
   "framework": "nextjs",
-  "regions": ["iad1"],
   "github": {
-    "autoDeployments": true,
-    "enabled": true
-  },
-  "functions": {
-    "app/**": {
-      "runtime": "nodejs18.x"
-    }
+    "autoJobCancelation": false,
+    "autoDeployments": true
   },
   "headers": [
     {
